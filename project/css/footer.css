@@ -1,0 +1,16 @@
+.color_1 div p a{
+    color: #363f4d;
+    text-decoration: none
+}
+.color_1 div p a:hover{
+    color: #0cab33;
+    text-decoration: none
+}
+.bg{
+    background-color: #f5f5f5;
+}
+.bg_1{
+    background-color: #ebebeb;
+    font-size: 18px;
+    color: #363f4d;
+}
